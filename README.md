@@ -1,2 +1,2 @@
 # Python---MySQL
-Use PYTHON to control MySQL
+How to Use PYTHON to Control MySQL
